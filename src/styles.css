@@ -1,0 +1,46 @@
+/* src/styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    background-image: url(./assets/banner.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    background-position: center;
+  }
+
+  main {
+    flex: 1;
+  }
+  
+  footer  {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    position: fixed;
+    background-color: #333;
+    color: #fff;
+    bottom: 0;
+    width: 100%;
+    transition: 0.3ms;
+  }
+
+  footer p {
+    text-align: center;
+  }
+  
+  footer a {
+    color: #fff;
+    margin-right: 15px;
+    margin-top: 10px;
+    padding: 5px;
+    
+    
+  }
+
+  footer a:hover {
+    color: rgb(225, 139, 233);
+  }
