@@ -43,7 +43,7 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas 
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-##
+## 
 
 ## Resultado do App
 
